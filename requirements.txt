@@ -36,5 +36,5 @@ validators==0.20.0
 watchdog==3.0.0
 yarg==0.1.9
 gpy==1.10.0
-matplotlib-base=3.7.1
-matplotlib-inline=0.1.6
+matplotlib-base==3.7.1
+matplotlib-inline==0.1.6
