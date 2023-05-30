@@ -24,7 +24,6 @@ pydeck==0.8.1b0
 Pympler==1.0.1
 pyrsistent==0.19.3
 pytz==2023.3
-pywin32==304
 rich==13.3.5
 scipy==1.10.1
 smmap==5.0.0
