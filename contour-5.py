@@ -19,7 +19,7 @@ st.set_page_config(
     page_title = 'Reactor',
     page_icon = '🔬💧',
     initial_sidebar_state = 'expanded',
-    #layout = 'wide',
+    layout = 'wide',
 )
 
 st.title(" ➰ Visualisation of coiled tube reactor characteristics ⚗️ 💧")
