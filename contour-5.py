@@ -21,8 +21,13 @@ st.set_page_config(
     initial_sidebar_state = 'expanded',
     layout = 'wide',
 )
-
-st.title(" ➰ Visualisation of coiled tube reactor characteristics ⚗️ 💧")
+# Add the link to the top of the page
+st.markdown(
+    "<h1 style='text-align: center;'>➰ Visualisation of coiled tube reactor characteristics ⚗️ 💧</h1>"
+    "<h3 style='text-align: center;'>Follow us on Twitter: "
+    "<a href='https://twitter.com/MatarLab'>@MatarLab</a></h3>",
+    unsafe_allow_html=True
+)
 
 
 st.write(
